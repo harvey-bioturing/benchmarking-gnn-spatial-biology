@@ -1,0 +1,16 @@
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model gcn
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model gat
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model sage
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model gin
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model appnp
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model gated
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model cheb
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-02 --model tag
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model gcn
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model gat
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model sage
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model gin
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model appnp
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model gated
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model cheb
+python main_hyperopt_loocv.py --adata_dir ../../dataset_10x-visium-processed/dataset-16384-03 --model tag
