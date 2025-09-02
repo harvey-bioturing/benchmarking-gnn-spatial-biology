@@ -97,3 +97,7 @@ After selecting the best configuration:
 The following figure summarizes the benchmarking performance of all GNN models across the evaluation tasks:
 
 <p align="center"> <img src="https://github.com/harvey-bioturing/benchmarking-gnn-spatial-biology/blob/main/assets/01_benchmark_results.jpg" alt="Benchmark Results" width="800"/> </p>
+
+<p align="center"> <img src="https://github.com/harvey-bioturing/benchmarking-gnn-spatial-biology/blob/main/assets/embedding_vis_pid_151510.png" alt="Benchmark Results" width="800"/> </p>
+
+
